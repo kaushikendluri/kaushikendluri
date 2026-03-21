@@ -1,5 +1,4 @@
 # Hey, I'm Kaushik 👋
-
 > Computer Science Student · Full Stack Developer · AI Enthusiast
 
 ---
@@ -8,6 +7,7 @@
 
 - 🎓 Computer Science student passionate about building real-world products
 - 💻 Currently building **NexusWealth** — an AI-powered personal finance platform
+- 🏗️ Also built **NexusCRM** — a full-featured Real Estate CRM dashboard
 - 🤖 Interested in AI, fintech, and modern web development
 - 📍 Based in Hyderabad, India
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 🔥 Featured Project
+## 🔥 Featured Projects
 
 ### [NexusWealth — AI Finance Platform](https://github.com/kaushikendluri/nexuswealth)
 > Futuristic AI-powered personal finance dashboard
@@ -36,10 +36,21 @@
 
 ---
 
+### [NexusCRM — Real Estate CRM Dashboard](https://github.com/kaushikendluri/nexuscrm)
+> Comprehensive single-file CRM platform for real estate management
+
+- 🏠 8 modules — Contacts, Companies, Deals, Tasks, Projects, Inventory, Negotiations, Bookings
+- 📊 Live dashboard analytics — KPI cards, deal stage chart & revenue chart from real data
+- 🔐 User authentication with session persistence and owner auto-population
+- ➕ Add Fields system — optional per-module fields (Aadhar, PAN, Photo, RERA, BHK, etc.)
+- 🔍 Advanced Filters on all 8 modules with field-aware conditions
+- Built with HTML, CSS, Vanilla JavaScript — zero dependencies, single file
+
+---
+
 ## 📈 GitHub Stats
 
 ![Kaushik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushikendluri&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikendluri&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
@@ -48,51 +59,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushikendluri)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
-```
-
----
-
-## 2 — Complete Your Profile
-
-Go to **github.com → Settings → Public profile** and fill in:
-
-| Field | What to put |
-|-------|------------|
-| **Name** | Kaushik Endluri |
-| **Bio** | CS Student · Building AI-powered fintech · Open to opportunities |
-| **Location** | Hyderabad, India |
-| **Website** | your GitHub Pages link |
-| **Profile picture** | A clear photo of yourself |
-
----
-
-## 3 — Pin Your NexusWealth Repo
-
-1. Go to your GitHub profile
-2. Click **Customize your pins**
-3. Select **nexuswealth**
-4. It will show as a featured card on your profile
-
----
-
-## 4 — Add a Good Description to NexusWealth Repo
-
-1. Go to your **nexuswealth** repo
-2. Click the **⚙️** gear icon next to **About**
-3. Fill in:
-   - **Description**: `AI-powered personal finance platform with glassmorphism UI, portfolio tracking, and real-time currency conversion`
-   - **Website**: your GitHub Pages URL
-   - **Topics**: add tags like `finance`, `javascript`, `html-css`, `dashboard`, `ai`, `fintech`
-
----
-
-## 5 — Enable GitHub Pages (Make It Live)
-
-1. Go to your **nexuswealth** repo
-2. Click **Settings**
-3. Click **Pages** in the left sidebar
-4. Under **Branch** → select `main` → folder `/public`
-5. Click **Save**
-6. In 2 minutes your site is live at:
-```
-https://kaushikendluri.github.io/nexuswealth
