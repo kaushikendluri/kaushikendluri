@@ -2,7 +2,7 @@
 
 # Hey, I'm Kaushik 👋
 
-### Computer Science Student · Full Stack Developer · AI Enthusiast
+### Computer Science Student · ML Engineer · AI Engineer
 
 📍 Hyderabad, India
 
@@ -16,9 +16,9 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science student who loves shipping real, working products — not just tutorials. My focus is on **AI**, **fintech**, and **modern web development**, and I move fast from concept to fully functional builds.
+I'm a Computer Science student focused on building **AI-powered systems** that solve real problems — not just demos. My work centers on **machine learning**, **AI engineering**, and **fintech intelligence**, with an eye for shipping production-quality interfaces.
 
-- 🏦 Currently building **QuantumCFO** — a full-stack AI Financial Intelligence platform with FastAPI + PostgreSQL + React
+- 🏦 Currently building **QuantumCFO** — an AI Financial Intelligence platform with FastAPI + PostgreSQL + React
 - 💰 Built **NexusWealth** — an AI-powered personal finance dashboard
 - 🏢 Built **NexusCRM** — a single-file Real Estate CRM with 8 modules
 - 🎓 Built **University Attendance Portal** — role-based academic management
@@ -29,30 +29,32 @@ I'm a Computer Science student who loves shipping real, working products — not
 ## 🛠 Tech Stack
 
 #### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-#### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+#### AI / ML
+![Claude AI](https://img.shields.io/badge/Claude%20AI-7C3AED?style=flat&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=flat&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-10A37F?style=flat&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+#### Backend & Data
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+#### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
 ![SVG](https://img.shields.io/badge/SVG-FFB13B?style=flat&logo=svg&logoColor=black)
-
-#### Databases & Infra
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat&logo=fastapi&logoColor=white)
-![LocalStorage](https://img.shields.io/badge/LocalStorage-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-#### AI & APIs
-![Claude AI](https://img.shields.io/badge/Claude%20AI-7C3AED?style=flat&logo=anthropic&logoColor=white)
-![Alpha Vantage](https://img.shields.io/badge/Alpha%20Vantage-0066CC?style=flat&logoColor=white)
-![yfinance](https://img.shields.io/badge/yfinance-7209B7?style=flat&logoColor=white)
 
 #### Dev & Design
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -144,7 +146,7 @@ A full-stack financial intelligence system that operates like a top-tier investm
 ## 💡 What I'm Exploring Right Now
 
 - 🧠 **LLM-powered financial analysis** — making AI think like a CFO, not just a chatbot
-- 🏗️ **Full-stack architecture** — combining FastAPI backends with persistent databases
+- 🤖 **AI agent architectures** — building decision engines with tool use and memory
 - 📊 **Bloomberg-style UI/UX** — high-density, professional financial interfaces
 - 🔄 **Real-time data pipelines** — caching, throttling, and merging multi-source feeds
 
