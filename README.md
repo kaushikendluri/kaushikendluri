@@ -1,71 +1,122 @@
+<div align="center">
+
 # Hey, I'm Kaushik 👋
-> Computer Science Student · Full Stack Developer · AI Enthusiast
+
+### Computer Science Student · Full Stack Developer · AI Enthusiast
+
+📍 Hyderabad, India
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushikendluri)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaushikendluri)
+
+</div>
 
 ---
 
 ## 🚀 About Me
-- 🎓 Computer Science student passionate about building real-world products
-- 💻 Currently building **NexusWealth** — an AI-powered personal finance platform
-- 🏗️ Also built **NexusCRM** — a full-featured Real Estate CRM dashboard
-- 🎓 Built **University Attendance Portal** — a role-based student & faculty management system
-- 🤖 Interested in AI, fintech, and modern web development
-- 📍 Based in Hyderabad, India
+
+I'm a Computer Science student who loves shipping real, working products — not just tutorials. My focus is on **AI**, **fintech**, and **modern web development**, and I move fast from concept to fully functional builds.
+
+- 🏦 Currently building **QuantumCFO** — a full-stack AI Financial Intelligence platform with FastAPI + PostgreSQL + React
+- 💰 Built **NexusWealth** — an AI-powered personal finance dashboard
+- 🏢 Built **NexusCRM** — a single-file Real Estate CRM with 8 modules
+- 🎓 Built **University Attendance Portal** — role-based academic management
+- 🤖 Always exploring how AI can power better decision-making interfaces
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
+#### Languages
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-### Libraries & Frameworks
+#### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
 ![SVG](https://img.shields.io/badge/SVG-FFB13B?style=flat&logo=svg&logoColor=black)
+
+#### Databases & Infra
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat&logo=fastapi&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude%20AI-7C3AED?style=flat&logo=anthropic&logoColor=white)
 ![LocalStorage](https://img.shields.io/badge/LocalStorage-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### Dev & Design
+#### AI & APIs
+![Claude AI](https://img.shields.io/badge/Claude%20AI-7C3AED?style=flat&logo=anthropic&logoColor=white)
+![Alpha Vantage](https://img.shields.io/badge/Alpha%20Vantage-0066CC?style=flat&logoColor=white)
+![yfinance](https://img.shields.io/badge/yfinance-7209B7?style=flat&logoColor=white)
+
+#### Dev & Design
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-38B2AC?style=flat&logo=css3&logoColor=white)
-![Glassmorphism](https://img.shields.io/badge/Glassmorphism%20UI-6366F1?style=flat&logo=css3&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+![Glassmorphism](https://img.shields.io/badge/Glassmorphism%20UI-6366F1?style=flat&logo=css3&logoColor=white)
 
 ---
 
 ## 🔥 Featured Projects
 
-### [University Attendance Portal](https://github.com/kaushikendluri/attendance-portal)
+### 🏦 [QuantumCFO — AI Financial Intelligence Platform](https://github.com/kaushikendluri/quantumcfo)
+> **Enterprise-grade AI CFO platform with Bloomberg-style terminal UI, persistent backend, and live financial modeling.**
+
+A full-stack financial intelligence system that operates like a top-tier investment banking workstation. Built end-to-end with persistence, real market data, and reproducible analyses.
+
+**Backend (Python · FastAPI · PostgreSQL)**
+- 🧮 **Live DCF Engine** — full discounted cash flow math with WACC, terminal value, sensitivity tables
+- 📈 **Multi-Scenario Forecasting** — base/bull/bear projections with margin expansion modeling
+- 🤖 **AI Insights Engine** — rule-based decision engine analyzing leverage, margins, growth, valuation
+- 📊 **Market Data Integration** — Alpha Vantage + yfinance with smart caching
+- 📁 **CSV/XLSX Upload Pipeline** — auto-mapped column detection for financial statements
+- 📄 **PDF Report Generator** — boardroom-ready exports via reportlab
+- 🗄️ **Persistent Storage** — SQLAlchemy ORM with Alembic migrations; saved analyses are immutable
+- 🔌 **Full REST API** — 25+ endpoints with auto-generated Swagger docs
+
+**Frontend (React · Vite · Chart.js)**
+- 🖥️ **Bloomberg-Style Terminal UI** — dense, dark, information-forward design
+- 📊 **Real-Time KPI Dashboard** — revenue, EBITDA, FCF, leverage with live updates
+- 🎚️ **Interactive DCF Editor** — 11 sliders with sub-second live preview
+- 📑 **Forecasting Workbench** — side-by-side scenario comparison with year-by-year tables
+- 📤 **Drag-Drop Data Import** — file uploads with status tracking and error logging
+- ✨ **AI Insights Panel** — categorized risks, opportunities, observations with severity levels
+- 📰 **Live Market Ticker** — auto-refreshing quotes streaming across the top
+
+**Built with:** FastAPI · PostgreSQL · SQLAlchemy · Pydantic · React 18 · Vite · Chart.js · Docker · reportlab · pandas
+
+---
+
+### 🎓 [University Attendance Portal](https://github.com/kaushikendluri/attendance-portal)
 > Role-based university management system for students and professors
 - 🎓 Dual role login — Student (view-only) and Professor (edit permissions)
 - 📊 Attendance dashboard with color-coded bar charts (🟢 ≥75% / 🔴 <75%)
 - 📝 Marks dashboard with PASS/FAIL badges and letter grading (O / A+ / A / B+)
-- 💳 Payment portal with fee summary, Pay Now button and transaction history
+- 💳 Payment portal with fee summary, Pay Now button, and transaction history
 - 👤 Student & faculty profile cards with full academic details
-- 📚 Course list table with subject codes, credits and assigned professors
-- Built with **React 18 + Vite**, Inline CSS, zero external UI dependencies
+- 📚 Course list table with subject codes, credits, and assigned professors
+- **Built with:** React 18 + Vite, Inline CSS, zero external UI dependencies
 
 ---
 
-### [NexusWealth — AI Finance Platform](https://github.com/kaushikendluri/nexuswealth)
+### 💰 [NexusWealth — AI Finance Platform](https://github.com/kaushikendluri/nexuswealth)
 > Futuristic AI-powered personal finance dashboard
 - 💳 Real-time balance tracking with currency conversion (USD / INR / EUR)
-- 📊 Investment portfolio with interactive Chart.js charts
+- 📊 Investment portfolio with interactive Chart.js visualizations
 - 🤖 AI Financial Advisor chatbot powered by Claude AI
 - 🌙 Dark/Light mode with BMW-inspired glassmorphism design
 - 🔗 Live currency exchange via REST API
-- Built with **HTML, CSS, Vanilla JavaScript, Chart.js**
+- **Built with:** HTML, CSS, Vanilla JavaScript, Chart.js
 
 ---
 
-### [NexusCRM — Real Estate CRM Dashboard](https://github.com/kaushikendluri/nexuscrm)
+### 🏢 [NexusCRM — Real Estate CRM Dashboard](https://github.com/kaushikendluri/nexuscrm)
 > Comprehensive single-file CRM platform for real estate management
 - 🏠 8 modules — Contacts, Companies, Deals, Tasks, Projects, Inventory, Negotiations, Bookings
 - 📊 Live dashboard analytics — KPI cards, SVG charts & revenue tracking from real data
@@ -73,17 +124,40 @@
 - ➕ Add Fields system — optional per-module fields (Aadhar, PAN, Photo, RERA, BHK, etc.)
 - 🔍 Advanced Filters on all 8 modules with field-aware conditions
 - 💾 Fully offline — all data stored in LocalStorage, zero dependencies
-- Built with **HTML, CSS, Vanilla JavaScript, SVG**
+- **Built with:** HTML, CSS, Vanilla JavaScript, SVG
 
 ---
 
 ## 📈 GitHub Stats
 
+<div align="center">
+
 ![Kaushik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushikendluri&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikendluri&layout=compact&theme=tokyonight&hide_border=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaushikendluri&theme=tokyonight&hide_border=true)
+
+</div>
+
 ---
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushikendluri)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+## 💡 What I'm Exploring Right Now
+
+- 🧠 **LLM-powered financial analysis** — making AI think like a CFO, not just a chatbot
+- 🏗️ **Full-stack architecture** — combining FastAPI backends with persistent databases
+- 📊 **Bloomberg-style UI/UX** — high-density, professional financial interfaces
+- 🔄 **Real-time data pipelines** — caching, throttling, and merging multi-source feeds
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushikendluri)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaushikendluri)
+
+⭐️ **If you like my work, drop a star on the projects above!**
+
+</div>
