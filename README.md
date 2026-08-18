@@ -1,289 +1,192 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=210&section=header&text=KAUSHIK%20ENDLURI&fontSize=38&fontColor=D4AF37&fontAlignY=36&desc=AI%20ENGINEER%20%E2%80%A2%20BUILDER%20%E2%80%A2%20DEVELOPER&descAlignY=54&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:6D28D9&height=190&section=header&text=Kaushik%20Endluri&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Builder&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
-<a href="https://linkedin.com/in/kaushikendluri"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37"/></a>
-<a href="mailto:kaushikendluri77@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37"/></a>
-<a href="https://github.com/kaushikendluri"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=D4AF37"/></a>
+<a href="https://linkedin.com/in/kaushikendluri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:kaushikendluri77@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/kaushikendluri"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&pause=1000&color=D4AF37&background=000000&center=true&vCenter=true&width=700&height=50&lines=THE+BATCOMPUTER+IS+ONLINE...;AI+ENGINEER;ML+DEVELOPER;GENAI+BUILDER;COMPUTER+VISION+ENGINEER;FULL-STACK+DEVELOPER" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=19&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Final-year+CS+student+%C2%B7+Hyderabad%2C+India;Building+AI+systems+that+ship%2C+not+demos;Computer+Vision+%C2%B7+LLM+Agents+%C2%B7+Real-time+Systems" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-```text
-╔══════════════════════════════════════════╗
-║            BATCOMPUTER SYSTEM             ║
-╠══════════════════════════════════════════╣
-║ OPERATOR    : KAUSHIK ENDLURI             ║
-║ LOCATION    : HYDERABAD, INDIA            ║
-║ SPECIALTY   : AI / ML / COMPUTER VISION   ║
-║ STATUS      : ONLINE — BUILDING           ║
-║ MODE        : FINAL-YEAR CS · DEVELOPER   ║
-║ CLEARANCE   : FULL-STACK ACCESS           ║
-╚══════════════════════════════════════════╝
-```
+## About
 
-<br/>
+I'm a final-year Computer Science student who builds complete systems, not prototypes that stop at the README. My work sits across three areas — **medical computer vision research**, **LLM agent architecture**, and **full-stack fintech/ops platforms** — and every project below ships a real backend, a persistence layer, and a UI someone could actually use.
 
-## 🦇 `// THE MISSION`
-
-I build complete systems, not prototypes that stop at the README. My operations run across three theaters: **medical computer vision research**, **LLM agent architecture**, and **full-stack fintech/ops platforms** — every case file below ships a real backend, a persistence layer, and an interface someone could actually use.
-
-- Co-authored *"Lung Cancer Diagnosis Using Contrastive Explainability Learning"* (SRM Institute of Science and Technology, 2026), then rebuilt it as a deployable 3D-CNN + transformer diagnostic platform
-- Design real-time systems — SSE event streams, prediction engines, live dashboards with zero polling
-- Build LLM agents with LangGraph — tool-calling loops, persistent memory, background task orchestration
-- Ship fintech tooling — DCF engines, multi-scenario forecasting, market-data pipelines
-- Currently studying LLM internals from first principles — tokenizers, transformer internals, multi-agent orchestration
-
-<br/>
-
-## 🧠 `// BATCOMPUTER ARSENAL`
-
-**AI / MACHINE LEARNING**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=D4AF37)
-![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=D4AF37)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=D4AF37)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=D4AF37)
-![Contrastive Learning](https://img.shields.io/badge/Contrastive%20Learning%20(SimCLR)-000000?style=for-the-badge&logoColor=D4AF37)
-![Grad-CAM](https://img.shields.io/badge/Grad--CAM%20%2F%20Explainability-000000?style=for-the-badge&logoColor=D4AF37)
-
-**GENERATIVE AI**
-
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-000000?style=for-the-badge&logo=openai&logoColor=D4AF37)
-![Anthropic](https://img.shields.io/badge/Claude%20Code-000000?style=for-the-badge&logo=anthropic&logoColor=D4AF37)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logoColor=D4AF37)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=D4AF37)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge&logoColor=D4AF37)
-
-**COMPUTER VISION**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=D4AF37)
-![Watershed Segmentation](https://img.shields.io/badge/Watershed%20Segmentation-000000?style=for-the-badge&logoColor=D4AF37)
-![DICOM/NIfTI](https://img.shields.io/badge/DICOM%20%2F%20NIfTI-000000?style=for-the-badge&logoColor=D4AF37)
-![SimpleITK](https://img.shields.io/badge/SimpleITK-000000?style=for-the-badge&logoColor=D4AF37)
-
-**BACKEND**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=D4AF37)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=D4AF37)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=D4AF37)
-![Pydantic](https://img.shields.io/badge/Pydantic-000000?style=for-the-badge&logo=pydantic&logoColor=D4AF37)
-
-**FRONTEND**
-
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=D4AF37)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=D4AF37)
-![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=D4AF37)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=D4AF37)
-![Chart.js](https://img.shields.io/badge/Chart.js-000000?style=for-the-badge&logo=chartdotjs&logoColor=D4AF37)
-
-**CLOUD / INFRASTRUCTURE**
-
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=D4AF37)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=D4AF37)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=D4AF37)
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=D4AF37)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=D4AF37)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=D4AF37)
-
-<br/>
-
-## 🕵️ `// CASE FILES`
-
-```text
-CASE FILE #001
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-STATUS       : ACTIVE
-CLASSIFIED   : AI / COMPUTER VISION / MEDICAL RESEARCH
-TECHNOLOGY   : PyTorch · FastAPI · React · TailwindCSS · SimpleITK
-```
-
-**LungAI — Contrastive Explainability for Lung Cancer Diagnosis**
-
-A research-grade 3D deep learning system that classifies thoracic CT scans (Normal/Benign/Malignant) and explains every prediction visually — not a notebook, a deployable platform. 3D hybrid CNN + transformer-attention backbone, pretrained with SimCLR-style contrastive learning, then fine-tuned end-to-end. Full explainability suite — 3D Grad-CAM, saliency maps, attention rollout. DICOM/NIfTI ingestion pipeline with HU normalization and lung segmentation. FastAPI inference service + React dashboard with downloadable PDF clinical reports.
-
-**MISSION** — Faithful re-implementation of a research paper co-authored at SRM Institute of Science and Technology (2026), rebuilt as a real deployable stack rather than a research artifact.
-
-**[ VIEW CASE FILE → ](https://github.com/kaushikendluri/Lung-cancer-Diagnosis-using-contrastive-explainability-learning-)**
+- 🔬 Co-authored *"Lung Cancer Diagnosis Using Contrastive Explainability Learning"* (SRM Institute of Science and Technology, 2026), then rebuilt it as a deployable 3D-CNN + transformer diagnostic platform
+- 📡 Design real-time systems — SSE event streams, prediction engines, live dashboards with zero polling
+- 🤖 Build LLM agents with LangGraph — tool-calling loops, persistent memory, background task orchestration
+- 💹 Ship fintech tooling — DCF engines, multi-scenario forecasting, market-data pipelines
+- 🧠 Currently studying LLM internals from first principles — tokenizers, transformer internals, multi-agent orchestration
 
 ---
 
-```text
-CASE FILE #002
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-STATUS       : ACTIVE
-CLASSIFIED   : REAL-TIME SYSTEMS / INTELLIGENCE NETWORKS
-TECHNOLOGY   : Flask · SQLite · Server-Sent Events · Leaflet
-```
+## Tech Stack
 
-**Spidey Tracker — Real-Time Sighting Intelligence Network**
+**AI / ML & Computer Vision**
 
-A live operations console tracking reported sightings end-to-end — no polling, no mock data, every marker computed from the database. Server-Sent Events push sightings, detections, and alerts to every open client in real time. Custom prediction engine — recency-weighted dead reckoning over sighting history scored against location priors, producing ETA bands and uncertainty zones. Ships with an in-app assistant that reads live application state and can drive the UI directly.
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Contrastive Learning](https://img.shields.io/badge/Contrastive%20Learning%20(SimCLR)-6D28D9?style=flat-square&logoColor=white)
+![Grad-CAM](https://img.shields.io/badge/Grad--CAM%20%2F%20Explainability-6D28D9?style=flat-square&logoColor=white)
 
-**MISSION** — Prove out a fully event-driven architecture with zero client polling, backed by a self-contained prediction engine.
+**Generative AI / LLMs**
 
-**[ VIEW CASE FILE → ](https://github.com/kaushikendluri/spidey-tracker)**
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-10A37F?style=flat-square&logoColor=white)
 
----
+**Backend**
 
-```text
-CASE FILE #003
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-STATUS       : ACTIVE — LIVE DEMO DEPLOYED
-CLASSIFIED   : COMPUTER VISION / OPTICAL DETECTION
-TECHNOLOGY   : Python · OpenCV · FastAPI · Next.js
-```
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logoColor=white)
 
-**Lumina AI — Diamond Detection & Measurement**
+**Frontend**
 
-Upload a jewelry photo — every diamond is detected, measured, and countable by region. Classical CV pipeline: CLAHE contrast correction, Otsu thresholding, distance-transform watershed segmentation, per-stone classification. FastAPI backend + Next.js frontend, with a client-side mock mode that runs detection entirely in-browser. Deployed as a single Render Blueprint.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 
-**MISSION** — Replace manual jewelry appraisal counting with a deterministic, explainable CV pipeline.
+**Databases**
 
-**[ VIEW CASE FILE → ](https://github.com/kaushikendluri/diamond-estimation-)** · **[ LIVE DEMO → ](https://diamond-estimation.vercel.app)**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
----
+**Cloud / DevOps**
 
-```text
-CASE FILE #004
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-STATUS       : ACTIVE
-CLASSIFIED   : FINANCIAL INTELLIGENCE SYSTEMS
-TECHNOLOGY   : FastAPI · PostgreSQL · SQLAlchemy · React
-```
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20(EC2%20GPU%20%C2%B7%20RDS)-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
-**QuantumCFO — AI Financial Intelligence Platform**
+**Developer Tools**
 
-An enterprise-style CFO workstation with a Bloomberg-terminal aesthetic, built on a real persistence layer. Full DCF valuation engine — WACC, terminal value, sensitivity tables — plus base/bull/bear scenario forecasting. SQLAlchemy + Alembic-migrated PostgreSQL backend exposing 25+ REST endpoints with auto-generated Swagger docs. Rule-based AI insights engine (OpenAI-ready) surfacing leverage, margin, and valuation risk.
-
-**MISSION** — Give a CFO the same density of live information a Bloomberg terminal gives a trader.
-
-**[ VIEW CASE FILE → ](https://github.com/kaushikendluri/AI-tool-for-CFO)**
-
----
-
-```text
-CASE FILE #005
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-STATUS       : ACTIVE
-CLASSIFIED   : OPERATIONS MANAGEMENT SYSTEMS
-TECHNOLOGY   : Vanilla JavaScript · HTML5 · CSS3 · SVG
-```
-
-**NexusCRM — Real Estate CRM**
-
-A zero-dependency, single-file CRM covering the full real-estate sales lifecycle. 8 modules — Contacts, Companies, Deals, Tasks, Projects, Inventory, Negotiations, Bookings — with cross-module advanced filters. Live analytics dashboard rendered from real stored data with hand-built SVG charts. Runs entirely offline — all state in LocalStorage, no backend, no build step.
-
-**MISSION** — Prove a full CRM doesn't need a server to be real software.
-
-**[ VIEW CASE FILE → ](https://github.com/kaushikendluri/CRM-DASHBOARD)**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-```text
-CASE FILE #006
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-STATUS       : ACTIVE
-CLASSIFIED   : AUTONOMOUS AGENTS / LLM ORCHESTRATION
-TECHNOLOGY   : LangGraph · FastAPI · MySQL (AWS RDS) · React
-```
+## Featured Projects
 
-**AI Personal Assistant — LangGraph Agent**
+### 🔬 [LungAI — Contrastive Explainability for Lung Cancer Diagnosis](https://github.com/kaushikendluri/Lung-cancer-Diagnosis-using-contrastive-explainability-learning-)
+*A research-grade 3D deep learning system that classifies thoracic CT scans and explains every prediction visually — not a notebook, a deployable platform.*
 
-A conversational assistant that manages meetings, tasks, and team workflows for small teams via natural language. LangGraph state machine — confirmation gate → tool-calling loop → memory node — backed by GPT-4o-mini. Persistent memory via DB-backed conversation summaries plus per-user JSON stores. Background scheduler thread polling overdue tasks every 30s, pushing proactive messages into the chat.
+- 3D hybrid CNN + transformer-attention backbone, pretrained with SimCLR-style contrastive learning, then fine-tuned end-to-end
+- Full explainability suite — 3D Grad-CAM, saliency maps, attention rollout — so predictions are auditable, not black-box
+- DICOM/NIfTI ingestion pipeline: HU normalization, lung segmentation, isotropic resampling, augmentation
+- FastAPI inference service + React/Tailwind dashboard with downloadable per-case PDF clinical reports
+- Faithful re-implementation of a research paper I co-authored at SRM Institute of Science and Technology (2026)
 
-**MISSION** — Give a small team an operator that actually remembers context across sessions, not a stateless chatbot.
+**Stack:** PyTorch · FastAPI · React · TailwindCSS · pydicom · SimpleITK · ReportLab
 
-**[ VIEW CASE FILE → ](https://github.com/kaushikendluri/AlumnxAILabs_epa)**
+### 📡 [Spidey Tracker — Real-Time Sighting Intelligence Network](https://github.com/kaushikendluri/spidey-tracker)
+*A live operations console tracking reported sightings end-to-end — no polling, no mock data, every marker computed from the database.*
 
-<br/>
+- Server-Sent Events push sightings, detections, and alerts to every open client in real time
+- Custom prediction engine — recency-weighted dead reckoning over sighting history scored against location priors, producing ETA bands and uncertainty zones
+- CV-based sighting analysis fusing colour-ratio, saturation, contrast, and edge-density with motion plausibility
+- Ships with an in-app assistant that reads live application state and can drive the UI directly
+- Documents its own "data honesty" — explicitly a fictional demo, and says so
 
-## 🛰️ `// ACTIVE MISSIONS`
+**Stack:** Flask · SQLite · Server-Sent Events · Leaflet · Python
 
-```text
-[ACTIVE]       AI AGENT SYSTEMS
-               Building LLM-backed assistants with LangGraph tool-calling and persistent memory.
+### 💎 [Lumina AI — Diamond Detection & Measurement](https://diamond-estimation.vercel.app) · [repo](https://github.com/kaushikendluri/diamond-estimation-)
+*Upload a jewelry photo — every diamond is detected, measured, and countable by region.*
 
-[ACTIVE]       COMPUTER VISION R&D
-               Extending LungAI's contrastive-explainability methods toward additional imaging modalities.
+- Classical CV pipeline: CLAHE contrast correction, Otsu thresholding, distance-transform watershed segmentation, per-stone classification
+- FastAPI backend + Next.js frontend, with a client-side mock mode that runs detection entirely in-browser
+- Deployed as a single Render Blueprint (backend + frontend together) — **live demo above**
 
-[ACTIVE]       REAL-TIME SYSTEMS
-               SSE-driven live dashboards and prediction engines (Spidey Tracker).
+**Stack:** Python · OpenCV · FastAPI · Next.js · Render
 
-[STUDYING]     LLM INTERNALS
-               Tokenizer implementations and transformer architectures, built from scratch.
+### 🏦 [QuantumCFO — AI Financial Intelligence Platform](https://github.com/kaushikendluri/AI-tool-for-CFO)
+*An enterprise-style CFO workstation with a Bloomberg-terminal aesthetic, built on a real persistence layer.*
 
-[STUDYING]     MULTI-AGENT ORCHESTRATION
-               Studying coordination patterns ahead of building my own Multi-Agent AI Operating System.
+- Full DCF valuation engine — WACC, terminal value, sensitivity tables — plus base/bull/bear scenario forecasting
+- SQLAlchemy + Alembic-migrated PostgreSQL backend exposing 25+ REST endpoints with auto-generated Swagger docs
+- CSV/XLSX ingestion with automatic column mapping; market data via Alpha Vantage/yfinance with caching
+- Rule-based AI insights engine (OpenAI-ready) surfacing leverage, margin, and valuation risk
 
-[INITIALIZED]  MULTI-AGENT AI OPERATING SYSTEM
-               Repository created — architecture in planning.
-```
+**Stack:** FastAPI · PostgreSQL · SQLAlchemy · React · Vite · Chart.js · Docker
 
-<br/>
+### 🏢 [NexusCRM — Real Estate CRM](https://github.com/kaushikendluri/CRM-DASHBOARD)
+*A zero-dependency, single-file CRM covering the full real-estate sales lifecycle.*
 
-## 📡 `// BAT-SIGNAL`
+- 8 modules — Contacts, Companies, Deals, Tasks, Projects, Inventory, Negotiations, Bookings — with cross-module advanced filters
+- Live analytics dashboard rendered from real stored data: KPI cards, hand-built SVG charts
+- Session-persisted auth and a schema-extension system for module-specific fields (RERA, BHK, Aadhar, etc.)
+- Runs entirely offline — all state in LocalStorage, no backend, no build step
+
+**Stack:** Vanilla JavaScript · HTML5 · CSS3 · SVG
+
+### 🧩 [AI Personal Assistant — LangGraph Agent](https://github.com/kaushikendluri/AlumnxAILabs_epa)
+*A conversational assistant that manages meetings, tasks, and team workflows for small teams via natural language.*
+
+- LangGraph state machine — confirmation gate → tool-calling loop → memory node — backed by GPT-4o-mini
+- Persistent memory: DB-backed conversation summaries plus per-user JSON stores for meeting history and contact intelligence
+- Background scheduler thread polling overdue tasks every 30s, pushing proactive messages into the chat
+- FastAPI backend on MySQL (AWS RDS), React SPA frontend
+
+**Stack:** LangGraph · FastAPI · MySQL (AWS RDS) · React
+
+---
+
+## Research
+
+**Lung Cancer Diagnosis Using Contrastive Explainability Learning** — SRM Institute of Science and Technology, 2026
+Co-authored with Neemia and Singh. [LungAI](https://github.com/kaushikendluri/Lung-cancer-Diagnosis-using-contrastive-explainability-learning-) is my from-scratch reimplementation of the paper as a full deployable stack — the model, plus the inference API, explainability pipeline, and clinical reporting layer around it.
+
+---
+
+## GitHub Stats & Activity
 
 <div align="center">
 
-![Kaushik's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kaushikendluri&show_icons=true&count_private=true&bg_color=000000&title_color=D4AF37&icon_color=D4AF37&text_color=C9C9C9&border_color=D4AF37&hide_border=false)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kaushikendluri&layout=compact&bg_color=000000&title_color=D4AF37&text_color=C9C9C9&border_color=D4AF37&hide_border=false)
+![Kaushik's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kaushikendluri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kaushikendluri&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaushikendluri&background=000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=C9C9C9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7280&border=D4AF37)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaushikendluri&theme=tokyonight&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaushikendluri&bg_color=000000&color=D4AF37&line=D4AF37&point=FFFFFF&area=true&area_color=D4AF37&hide_border=true&title_color=D4AF37)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaushikendluri&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
-<br/>
+---
 
-## 🗄️ `// INTELLIGENCE DATABASE`
+## Currently Exploring
 
-```text
-VERIFIED RECORD
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-"Lung Cancer Diagnosis Using Contrastive Explainability Learning"
-SRM Institute of Science and Technology — 2026
-Co-authored with Neemia, Singh
-```
+- 📖 LLM internals from first principles — tokenizer implementations, building transformer-based LLMs from scratch
+- 🧵 Multi-agent orchestration patterns, ahead of building out my own **Multi-Agent AI Operating System**
+- 🩻 Extending LungAI's explainability suite toward additional imaging modalities
 
-**Training archives** — active self-study, referenced for skill-building rather than original authorship:
-- Tokenizer implementations (custom BPE tokenizer builds)
-- Transformer-based LLMs, built from scratch
-- Multi-agent orchestration patterns (via Microsoft's Multi-Agent accelerator)
-
-<br/>
-
-## 🦇 `// BATCAVE ACTIVITY MONITOR`
-
-```text
-RECENT OPERATIONS LOG
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▸ [CREATE]  spidey-tracker initialized — 2026-08-13
-▸ [PUSH]    Real-time sighting intelligence network deployed
-▸ [PUSH]    Prediction engine + SSE event stream shipped
-▸ [PUSH]    Continuous iteration on live tracking system
-```
-
-Full contribution history above in `// BAT-SIGNAL`.
-
-<br/>
-
-## 📞 `// OPEN CHANNEL`
+---
 
 <div align="center">
 
-Opening a secure line —
+### 📫 Let's Connect
 
-<a href="https://linkedin.com/in/kaushikendluri"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37"/></a>
-<a href="mailto:kaushikendluri77@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37"/></a>
-<a href="https://github.com/kaushikendluri"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=D4AF37"/></a>
+<a href="https://linkedin.com/in/kaushikendluri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:kaushikendluri77@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/kaushikendluri"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:0F172A&height=110&section=footer" width="100%"/>
