@@ -1,154 +1,187 @@
 <div align="center">
 
-# Hey, I'm Kaushik 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:6D28D9&height=190&section=header&text=Kaushik%20Endluri&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Builder&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
-### Computer Science Student · ML Engineer · AI Engineer
+<a href="https://linkedin.com/in/kaushikendluri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:kaushikendluri77@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/kaushikendluri"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-📍 Hyderabad, India
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushikendluri)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaushikendluri)
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=19&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Final-year+CS+student+%C2%B7+Hyderabad%2C+India;Building+AI+systems+that+ship%2C+not+demos;Computer+Vision+%C2%B7+LLM+Agents+%C2%B7+Real-time+Systems" alt="Typing SVG" />
 
 </div>
 
----
+<br/>
 
-## 🚀 About Me
+## About
 
-I'm a Computer Science student focused on building **AI-powered systems** that solve real problems — not just demos. My work centers on **machine learning**, **AI engineering**, and **fintech intelligence**, with an eye for shipping production-quality interfaces.
+I'm a final-year Computer Science student who builds complete systems, not prototypes that stop at the README. My work sits across three areas — **medical computer vision research**, **LLM agent architecture**, and **full-stack fintech/ops platforms** — and every project below ships a real backend, a persistence layer, and a UI someone could actually use.
 
-- 🏦 Currently building **QuantumCFO** — an AI Financial Intelligence platform with FastAPI + PostgreSQL + React
-- 💰 Built **NexusWealth** — an AI-powered personal finance dashboard
-- 🏢 Built **NexusCRM** — a single-file Real Estate CRM with 8 modules
-- 🎓 Built **University Attendance Portal** — role-based academic management
-- 🤖 Always exploring how AI can power better decision-making interfaces
-
----
-
-## 🛠 Tech Stack
-
-#### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-#### AI / ML
-![Claude AI](https://img.shields.io/badge/Claude%20AI-7C3AED?style=flat&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=flat&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-10A37F?style=flat&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-#### Backend & Data
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-#### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
-![SVG](https://img.shields.io/badge/SVG-FFB13B?style=flat&logo=svg&logoColor=black)
-
-#### Dev & Design
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
-![Glassmorphism](https://img.shields.io/badge/Glassmorphism%20UI-6366F1?style=flat&logo=css3&logoColor=white)
+- 🔬 Co-authored *"Lung Cancer Diagnosis Using Contrastive Explainability Learning"* (SRM Institute of Science and Technology, 2026), then rebuilt it as a deployable 3D-CNN + transformer diagnostic platform
+- 📡 Design real-time systems — SSE event streams, prediction engines, live dashboards with zero polling
+- 🤖 Build LLM agents with LangGraph — tool-calling loops, persistent memory, background task orchestration
+- 💹 Ship fintech tooling — DCF engines, multi-scenario forecasting, market-data pipelines
+- 🧠 Currently studying LLM internals from first principles — tokenizers, transformer internals, multi-agent orchestration
 
 ---
 
-## 🔥 Featured Projects
+## Tech Stack
 
-### 🏦 [QuantumCFO — AI Financial Intelligence Platform](https://github.com/kaushikendluri/quantumcfo)
-> **Enterprise-grade AI CFO platform with Bloomberg-style terminal UI, persistent backend, and live financial modeling.**
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=AI+%2F+ML+%C2%B7+Computer+Vision;Generative+AI+%2F+LLM+Agents;FastAPI+%C2%B7+PostgreSQL+%C2%B7+Docker;React+%C2%B7+Next.js+%C2%B7+TailwindCSS" alt="Tech Stack Typing SVG" />
 
-A full-stack financial intelligence system that operates like a top-tier investment banking workstation. Built end-to-end with persistence, real market data, and reproducible analyses.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:6D28D9&height=38&text=AI%20%2F%20ML%20%26%20Computer%20Vision&fontSize=14&fontColor=ffffff&fontAlignY=58&animation=fadeIn&width=1000" />
 
-**Backend (Python · FastAPI · PostgreSQL)**
-- 🧮 **Live DCF Engine** — full discounted cash flow math with WACC, terminal value, sensitivity tables
-- 📈 **Multi-Scenario Forecasting** — base/bull/bear projections with margin expansion modeling
-- 🤖 **AI Insights Engine** — rule-based decision engine analyzing leverage, margins, growth, valuation
-- 📊 **Market Data Integration** — Alpha Vantage + yfinance with smart caching
-- 📁 **CSV/XLSX Upload Pipeline** — auto-mapped column detection for financial statements
-- 📄 **PDF Report Generator** — boardroom-ready exports via reportlab
-- 🗄️ **Persistent Storage** — SQLAlchemy ORM with Alembic migrations; saved analyses are immutable
-- 🔌 **Full REST API** — 25+ endpoints with auto-generated Swagger docs
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Contrastive Learning](https://img.shields.io/badge/Contrastive%20Learning%20(SimCLR)-6D28D9?style=flat-square&logoColor=white)
+![Grad-CAM](https://img.shields.io/badge/Grad--CAM%20%2F%20Explainability-6D28D9?style=flat-square&logoColor=white)
 
-**Frontend (React · Vite · Chart.js)**
-- 🖥️ **Bloomberg-Style Terminal UI** — dense, dark, information-forward design
-- 📊 **Real-Time KPI Dashboard** — revenue, EBITDA, FCF, leverage with live updates
-- 🎚️ **Interactive DCF Editor** — 11 sliders with sub-second live preview
-- 📑 **Forecasting Workbench** — side-by-side scenario comparison with year-by-year tables
-- 📤 **Drag-Drop Data Import** — file uploads with status tracking and error logging
-- ✨ **AI Insights Panel** — categorized risks, opportunities, observations with severity levels
-- 📰 **Live Market Ticker** — auto-refreshing quotes streaming across the top
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:6D28D9&height=38&text=Generative%20AI%20%2F%20LLMs&fontSize=14&fontColor=ffffff&fontAlignY=58&animation=fadeIn&width=1000" />
 
-**Built with:** FastAPI · PostgreSQL · SQLAlchemy · Pydantic · React 18 · Vite · Chart.js · Docker · reportlab · pandas
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-10A37F?style=flat-square&logoColor=white)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:6D28D9&height=38&text=Backend&fontSize=14&fontColor=ffffff&fontAlignY=58&animation=fadeIn&width=1000" />
 
-### 🎓 [University Attendance Portal](https://github.com/kaushikendluri/attendance-portal)
-> Role-based university management system for students and professors
-- 🎓 Dual role login — Student (view-only) and Professor (edit permissions)
-- 📊 Attendance dashboard with color-coded bar charts (🟢 ≥75% / 🔴 <75%)
-- 📝 Marks dashboard with PASS/FAIL badges and letter grading (O / A+ / A / B+)
-- 💳 Payment portal with fee summary, Pay Now button, and transaction history
-- 👤 Student & faculty profile cards with full academic details
-- 📚 Course list table with subject codes, credits, and assigned professors
-- **Built with:** React 18 + Vite, Inline CSS, zero external UI dependencies
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logoColor=white)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:6D28D9&height=38&text=Frontend&fontSize=14&fontColor=ffffff&fontAlignY=58&animation=fadeIn&width=1000" />
 
-### 💰 [NexusWealth — AI Finance Platform](https://github.com/kaushikendluri/nexuswealth)
-> Futuristic AI-powered personal finance dashboard
-- 💳 Real-time balance tracking with currency conversion (USD / INR / EUR)
-- 📊 Investment portfolio with interactive Chart.js visualizations
-- 🤖 AI Financial Advisor chatbot powered by Claude AI
-- 🌙 Dark/Light mode with BMW-inspired glassmorphism design
-- 🔗 Live currency exchange via REST API
-- **Built with:** HTML, CSS, Vanilla JavaScript, Chart.js
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:6D28D9&height=38&text=Databases&fontSize=14&fontColor=ffffff&fontAlignY=58&animation=fadeIn&width=1000" />
 
-### 🏢 [NexusCRM — Real Estate CRM Dashboard](https://github.com/kaushikendluri/nexuscrm)
-> Comprehensive single-file CRM platform for real estate management
-- 🏠 8 modules — Contacts, Companies, Deals, Tasks, Projects, Inventory, Negotiations, Bookings
-- 📊 Live dashboard analytics — KPI cards, SVG charts & revenue tracking from real data
-- 🔐 User authentication with session persistence and owner auto-population
-- ➕ Add Fields system — optional per-module fields (Aadhar, PAN, Photo, RERA, BHK, etc.)
-- 🔍 Advanced Filters on all 8 modules with field-aware conditions
-- 💾 Fully offline — all data stored in LocalStorage, zero dependencies
-- **Built with:** HTML, CSS, Vanilla JavaScript, SVG
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:6D28D9&height=38&text=Cloud%20%2F%20DevOps&fontSize=14&fontColor=ffffff&fontAlignY=58&animation=fadeIn&width=1000" />
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20(EC2%20GPU%20%C2%B7%20RDS)-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:6D28D9&height=38&text=Developer%20Tools&fontSize=14&fontColor=ffffff&fontAlignY=58&animation=fadeIn&width=1000" />
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+## Featured Projects
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&pause=1500&color=94A3B8&center=true&vCenter=true&width=550&lines=Selected+work%2C+built+end-to-end;Real+backends+%C2%B7+real+data+%C2%B7+real+deployments" alt="Typing SVG" />
+
+### 🔬 [LungAI — Contrastive Explainability for Lung Cancer Diagnosis](https://github.com/kaushikendluri/Lung-cancer-Diagnosis-using-contrastive-explainability-learning-)
+*A research-grade 3D deep learning system that classifies thoracic CT scans and explains every prediction visually — not a notebook, a deployable platform.*
+
+- 3D hybrid CNN + transformer-attention backbone, pretrained with SimCLR-style contrastive learning, then fine-tuned end-to-end
+- Full explainability suite — 3D Grad-CAM, saliency maps, attention rollout — so predictions are auditable, not black-box
+- DICOM/NIfTI ingestion pipeline: HU normalization, lung segmentation, isotropic resampling, augmentation
+- FastAPI inference service + React/Tailwind dashboard with downloadable per-case PDF clinical reports
+- Faithful re-implementation of a research paper I co-authored at SRM Institute of Science and Technology (2026)
+
+**Stack:** PyTorch · FastAPI · React · TailwindCSS · pydicom · SimpleITK · ReportLab
+
+### 📡 [Spidey Tracker — Real-Time Sighting Intelligence Network](https://github.com/kaushikendluri/spidey-tracker)
+*A live operations console tracking reported sightings end-to-end — no polling, no mock data, every marker computed from the database.*
+
+- Server-Sent Events push sightings, detections, and alerts to every open client in real time
+- Custom prediction engine — recency-weighted dead reckoning over sighting history scored against location priors, producing ETA bands and uncertainty zones
+- CV-based sighting analysis fusing colour-ratio, saturation, contrast, and edge-density with motion plausibility
+- Ships with an in-app assistant that reads live application state and can drive the UI directly
+- Documents its own "data honesty" — explicitly a fictional demo, and says so
+
+**Stack:** Flask · SQLite · Server-Sent Events · Leaflet · Python
+
+### 💎 [Lumina AI — Diamond Detection & Measurement](https://diamond-estimation.vercel.app) · [repo](https://github.com/kaushikendluri/diamond-estimation-)
+*Upload a jewelry photo — every diamond is detected, measured, and countable by region.*
+
+- Classical CV pipeline: CLAHE contrast correction, Otsu thresholding, distance-transform watershed segmentation, per-stone classification
+- FastAPI backend + Next.js frontend, with a client-side mock mode that runs detection entirely in-browser
+- Deployed as a single Render Blueprint (backend + frontend together) — **live demo above**
+
+**Stack:** Python · OpenCV · FastAPI · Next.js · Render
+
+### 🏦 [QuantumCFO — AI Financial Intelligence Platform](https://github.com/kaushikendluri/AI-tool-for-CFO)
+*An enterprise-style CFO workstation with a Bloomberg-terminal aesthetic, built on a real persistence layer.*
+
+- Full DCF valuation engine — WACC, terminal value, sensitivity tables — plus base/bull/bear scenario forecasting
+- SQLAlchemy + Alembic-migrated PostgreSQL backend exposing 25+ REST endpoints with auto-generated Swagger docs
+- CSV/XLSX ingestion with automatic column mapping; market data via Alpha Vantage/yfinance with caching
+- Rule-based AI insights engine (OpenAI-ready) surfacing leverage, margin, and valuation risk
+
+**Stack:** FastAPI · PostgreSQL · SQLAlchemy · React · Vite · Chart.js · Docker
+
+### 🏢 [NexusCRM — Real Estate CRM](https://github.com/kaushikendluri/CRM-DASHBOARD)
+*A zero-dependency, single-file CRM covering the full real-estate sales lifecycle.*
+
+- 8 modules — Contacts, Companies, Deals, Tasks, Projects, Inventory, Negotiations, Bookings — with cross-module advanced filters
+- Live analytics dashboard rendered from real stored data: KPI cards, hand-built SVG charts
+- Session-persisted auth and a schema-extension system for module-specific fields (RERA, BHK, Aadhar, etc.)
+- Runs entirely offline — all state in LocalStorage, no backend, no build step
+
+**Stack:** Vanilla JavaScript · HTML5 · CSS3 · SVG
+
+### 🧩 [AI Personal Assistant — LangGraph Agent](https://github.com/kaushikendluri/AlumnxAILabs_epa)
+*A conversational assistant that manages meetings, tasks, and team workflows for small teams via natural language.*
+
+- LangGraph state machine — confirmation gate → tool-calling loop → memory node — backed by GPT-4o-mini
+- Persistent memory: DB-backed conversation summaries plus per-user JSON stores for meeting history and contact intelligence
+- Background scheduler thread polling overdue tasks every 30s, pushing proactive messages into the chat
+- FastAPI backend on MySQL (AWS RDS), React SPA frontend
+
+**Stack:** LangGraph · FastAPI · MySQL (AWS RDS) · React
+
+---
+
+## Research
+
+**Lung Cancer Diagnosis Using Contrastive Explainability Learning** — SRM Institute of Science and Technology, 2026
+Co-authored with Neemia and Singh. [LungAI](https://github.com/kaushikendluri/Lung-cancer-Diagnosis-using-contrastive-explainability-learning-) is my from-scratch reimplementation of the paper as a full deployable stack — the model, plus the inference API, explainability pipeline, and clinical reporting layer around it.
+
+---
+
+## GitHub Stats & Activity
 
 <div align="center">
 
-![Kaushik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushikendluri&show_icons=true&theme=tokyonight&hide_border=true)
+![Kaushik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushikendluri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikendluri&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaushikendluri&theme=tokyonight&hide_border=true)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaushikendluri&theme=tokyo-night&hide_border=true&area=true)
+
+<img src="https://github-profile-trophy.vercel.app/?username=kaushikendluri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&animation=flipY" alt="GitHub Trophies" />
+
 </div>
 
 ---
 
-## 💡 What I'm Exploring Right Now
+## Currently Exploring
 
-- 🧠 **LLM-powered financial analysis** — making AI think like a CFO, not just a chatbot
-- 🤖 **AI agent architectures** — building decision engines with tool use and memory
-- 📊 **Bloomberg-style UI/UX** — high-density, professional financial interfaces
-- 🔄 **Real-time data pipelines** — caching, throttling, and merging multi-source feeds
+- 📖 LLM internals from first principles — tokenizer implementations, building transformer-based LLMs from scratch
+- 🧵 Multi-agent orchestration patterns, ahead of building out my own **Multi-Agent AI Operating System**
+- 🩻 Extending LungAI's explainability suite toward additional imaging modalities
 
 ---
 
@@ -156,10 +189,10 @@ A full-stack financial intelligence system that operates like a top-tier investm
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushikendluri)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaushikendluri)
-
-⭐️ **If you like my work, drop a star on the projects above!**
+<a href="https://linkedin.com/in/kaushikendluri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:kaushikendluri77@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/kaushikendluri"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:0F172A&height=110&section=footer" width="100%"/>
