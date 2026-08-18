@@ -137,16 +137,6 @@ I'm a final-year Computer Science student who builds complete systems, not proto
 
 **Stack:** Vanilla JavaScript · HTML5 · CSS3 · SVG
 
-### 🧩 [AI Personal Assistant — LangGraph Agent](https://github.com/kaushikendluri/AlumnxAILabs_epa)
-*A conversational assistant that manages meetings, tasks, and team workflows for small teams via natural language.*
-
-- LangGraph state machine — confirmation gate → tool-calling loop → memory node — backed by GPT-4o-mini
-- Persistent memory: DB-backed conversation summaries plus per-user JSON stores for meeting history and contact intelligence
-- Background scheduler thread polling overdue tasks every 30s, pushing proactive messages into the chat
-- FastAPI backend on MySQL (AWS RDS), React SPA frontend
-
-**Stack:** LangGraph · FastAPI · MySQL (AWS RDS) · React
-
 ---
 
 ## Research
