@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:6D28D9&height=190&section=header&text=Kaushik%20Endluri&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Builder&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+# Hey, I'm Kaushik 👋
+
+### AI/ML Engineer · Computer Vision · Builder
 
 <a href="https://linkedin.com/in/kaushikendluri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:kaushikendluri77@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
