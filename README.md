@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:6D28D9&height=190&section=header&text=Kaushik%20Endluri&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Builder&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+# Kaushik Endluri
+
+### AI/ML Engineer · Computer Vision · Builder
+
+Final-year CS student, Hyderabad, India
 
 <a href="https://linkedin.com/in/kaushikendluri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:kaushikendluri77@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/kaushikendluri"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=19&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Final-year+CS+student+%C2%B7+Hyderabad%2C+India;Building+AI+systems+that+ship%2C+not+demos;Computer+Vision+%C2%B7+LLM+Agents+%C2%B7+Real-time+Systems" alt="Typing SVG" />
 
 </div>
 
@@ -166,6 +166,16 @@ Co-authored with Neemia and Singh. [LungAI](https://github.com/kaushikendluri/Lu
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaushikendluri&theme=tokyonight&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaushikendluri&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaushikendluri/kaushikendluri/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaushikendluri/kaushikendluri/output/github-contribution-grid-snake.svg" />
+  <img alt="Kaushik's contribution grid snake animation" src="https://raw.githubusercontent.com/kaushikendluri/kaushikendluri/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 </div>
 
